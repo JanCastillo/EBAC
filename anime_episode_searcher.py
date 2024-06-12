@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup as bs
 
 #Se añaden librerias adicionales
 import os
-import numpy
 
 
 # In[35]:
