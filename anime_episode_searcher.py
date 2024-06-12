@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup as bs
 #Se añaden librerias adicionales
 import os
 import numpy
+import matplotlib.pyplot
 
 
 # In[35]:
