@@ -11,8 +11,6 @@ from bs4 import BeautifulSoup as bs
 import os
 import numpy
 
-import matplotlib.pyplot
-
 
 # In[35]:
 
