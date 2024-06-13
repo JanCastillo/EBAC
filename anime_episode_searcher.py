@@ -16,6 +16,7 @@ import numpy
 
 
 anime_name = input('Captura el nombre del anime que quieres buscar: ')
+anime_id = []
 
 
 # In[36]:
